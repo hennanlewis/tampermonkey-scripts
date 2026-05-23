@@ -8,8 +8,6 @@ Coleção de scripts para automatizar tarefas e melhorar a experiência em sites
   - Google Chrome
   - Microsoft Edge
   - Firefox
-- Extensão:
-  - :contentReference[oaicite:0]{index=0}
 
 ## Instalação
 
@@ -24,4 +22,4 @@ Coleção de scripts para automatizar tarefas e melhorar a experiência em sites
 Scripts atuais:
 
 - [YouTube Simple Skip Ad](./scripts/yt-skip-ad.js)
-- [AnimeAllStar chapter changer using keyboard](./animeallstar30-chapter-changer.js)
+- [AnimeAllStar chapter changer using keyboard](./scripts/animeallstar30-chapter-changer.js)
