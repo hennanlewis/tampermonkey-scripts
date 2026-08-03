@@ -19,7 +19,7 @@
   // 🎛️ botão
   const btn = document.createElement('div');
   btn.style.position = 'fixed';
-  btn.style.top = '100px';
+  btn.style.top = '50px';
   btn.style.right = '20px';
   btn.style.zIndex = '99999';
   btn.style.padding = '10px';
@@ -76,7 +76,7 @@
 
       if (!isFinite(video.duration) || video.duration <= 0) return;
 
-      const jump = video.duration * 0.15;
+      const jump = video.duration * 0.30;
 
       video.currentTime = Math.min(video.currentTime + jump, video.duration);
   }
